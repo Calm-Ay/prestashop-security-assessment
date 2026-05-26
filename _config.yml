@@ -1,0 +1,3 @@
+theme: jekyll-theme-cayman
+title: "PrestaShop Security Assessment"
+description: "Security assessment of a PrestaShop e-commerce deployment — authentication, input validation, session management, API security, and server hardening."

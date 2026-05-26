@@ -66,4 +66,4 @@ This report documents a thorough security assessment performed against a PrestaS
 **Rasaq Ayomide**
 Security Researcher | Web Application Penetration Tester
 - GitHub: [@Calm-Ay](https://github.com/Calm-Ay)
-- Email: 210804102@live.unilag.edu.ng
+- Email: ayomiderasq6@gmail.com
